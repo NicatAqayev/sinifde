@@ -1,0 +1,122 @@
+.btn h5{
+    font-weight: bold;
+    font-size: 17px;
+}
+#stay_like{
+    background-image: url(../image/photo-1.jpg);
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+}
+.text h5{
+    color: #e83e8c;
+}
+.text h1{
+    color: white;
+    margin-bottom:20px;
+    font-size: 68px;
+    font-weight: 800;
+}
+.dropdown a{
+    background-color: white;
+    color: grey;
+}
+.input-group{
+    background-color: white;
+    padding: 4px;
+    border-radius: 20px;
+}
+
+
+
+
+#booking{
+    background: #f8f9fa;
+}
+.col-12 h2{
+    font-weight: 700;
+    text-align: center;
+    font-size: 34px;
+    margin-bottom: 6%;
+}
+.col-12 p{
+    color: #e83e8c;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 0px;
+    margin-top: 10%;
+    text-align: center;
+}
+.underword h1{
+    font-size: 22px;
+    font-weight: 700;
+    text-align: center;
+}
+.underword p{
+    text-align: center;
+    font-size: 18px;
+    color: #868e96;
+}
+.box{
+    text-align: center;
+}
+.icon{
+    margin-bottom: 20px;
+}
+.icon i{
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    border-radius: 50%;
+    font-size: 26px;
+    background-color: #eaedfe;
+    color: #4E66F8;
+}
+
+
+
+.imag{
+    position: relative;
+    transition: all .3s;
+}
+.imag img{
+    display: inline-block;
+    width: 100%;
+    border-radius: 10px;
+}
+.cardtext{
+    width: 100%;
+    position: absolute;
+}
+.cardtext h1{
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    bottom: 40px;
+    left: 16px;
+}
+.cardtext p{
+    font-size: 16px;
+    color: white;
+    position: absolute;
+    bottom: -2px;
+    line-height: 15px;
+    left: 16px;
+}
+.col-lg-12 p{
+    margin-top: 30px;
+    color: #4E66F8 ;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+.col-lg-12 h1{
+    font-weight: bold;
+    margin-bottom: 65px;
+}
+.imag:hover{
+    transition: all .3s;
+    transform: translateY(-5px);
+}
